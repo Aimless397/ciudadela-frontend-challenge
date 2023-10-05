@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Frontend challenge for Ciudadela
 
+## Description
+
+This project lists all the humans in the Rick & Morty API built into Express and connected to this project. Includes pagination and a list of cards with images and details of each character.
+
 ## Built With
 
 This project was built using these main technologies
